@@ -1,3 +1,6 @@
+![Nightgazer-Bitmap](./fig/wt.png#gh-light-mode-only)
+![Nightgazer-Bitmap](./fig/bk.png#gh-dark-mode-only)  
+
 # 夜照飛點陣字型系列  Nightgazer-Bitmap
 夜照飛 (Nightgazer) 字型系列是修改自螢火飛 (FireFly) bdf 點陣的 ttf 點陣字型。每款字型皆約包含 17,300 個字符，以繁體中文字形為主，支援繁體中文、簡體中文、希臘字符、西里爾字符、日語假名等。
 
